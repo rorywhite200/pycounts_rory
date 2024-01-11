@@ -19,6 +19,8 @@ fig = plot_words(counts, n=10)
 plt.show()
 ```
 
+For full documentation see: [https://pycounts-rory.readthedocs.io/en/latest/](https://pycounts-rory.readthedocs.io/en/latest/)
+
 ## Contributing
 
 Interested in contributing? Check out the contributing guidelines. 
