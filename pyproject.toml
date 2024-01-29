@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_rory"
-version = "0.1.1"
+version = "1.0.0"
 description = "A word count calculator"
 authors = ["Rory White"]
 license = "MIT"

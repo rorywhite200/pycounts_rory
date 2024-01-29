@@ -2,6 +2,15 @@
 
 
 
+## v1.0.0 (2024-01-29)
+
+### Breaking
+
+* fix: example of full version bump
+
+BREAKING CHANGE: added whitespace ([`d040e79`](https://github.com/rorywhite200/pycounts_rory/commit/d040e79b1652807d3193458f9a157f12fabf379e))
+
+
 ## v0.1.1 (2024-01-29)
 
 ### Documentation
